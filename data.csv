@@ -1,0 +1,151 @@
+location,product_code,sales_last_5_months_before_first_price_change,sales_last_5_months_before_second_price_change,sales_first_5_months_after_third_price_change,first,second,third
+Malate,"tonkotsu ramen with karaage",538,104,7,382,428,428
+Makati,"tonkotsu ramen with karaage",505,144,0,382,428,428
+Commonwealth,"tonkotsu ramen with karaage",0,115,3,382,428,428
+Malate,"tonkotsu ramen",868,1026,1027,NULL,NULL,NULL
+Makati,"tonkotsu ramen",757,1192,875,NULL,NULL,NULL
+Commonwealth,"tonkotsu ramen",0,1229,878,NULL,NULL,NULL
+Commonwealth,"tonkatsu curry",0,0,1,NULL,NULL,NULL
+Malate,tonkatsu,454,360,308,270,270,298
+Makati,tonkatsu,336,487,329,270,270,298
+Commonwealth,tonkatsu,0,383,212,270,270,298
+Makati,"tantanmen ramen with karaage",142,66,0,406,448,448
+Malate,"tantanmen ramen with karaage",114,40,3,406,448,448
+Commonwealth,"tantanmen ramen with karaage",0,57,2,406,448,448
+Malate,"tantanmen ramen",326,296,269,NULL,NULL,NULL
+Makati,"tantanmen ramen",284,285,205,NULL,NULL,NULL
+Commonwealth,"tantanmen ramen",0,339,262,NULL,NULL,NULL
+Malate,"stewed pork platter (good for 4 to 5)",15,18,5,500,518,598
+Makati,"stewed pork platter (good for 4 to 5)",14,26,9,500,518,598
+Commonwealth,"stewed pork platter (good for 4 to 5)",0,23,20,500,518,598
+Makati,"spring onion pork rice topping",140,0,0,189,198,198
+Malate,"spring onion pork rice topping",126,0,0,189,198,198
+Makati,"soy-marinated egg",0,511,393,68,68,78
+Malate,"soy-marinated egg",0,483,279,68,68,78
+Commonwealth,"soy-marinated egg",0,397,260,68,68,78
+Malate,"shoyu ramen with karaage",104,26,2,382,428,428
+Makati,"shoyu ramen with karaage",93,40,0,382,428,428
+Commonwealth,"shoyu ramen with karaage",0,11,1,382,428,428
+Malate,"shoyu ramen",210,167,162,NULL,NULL,NULL
+Makati,"shoyu ramen",149,190,112,NULL,NULL,NULL
+Commonwealth,"shoyu ramen",0,239,182,NULL,NULL,NULL
+Makati,shogayaki,0,276,40,NULL,NULL,NULL
+Malate,shogayaki,0,156,17,NULL,NULL,NULL
+Commonwealth,shogayaki,0,200,16,NULL,NULL,NULL
+Makati,"party box (good for 6 to 8)",7,10,16,NULL,NULL,NULL
+Malate,"party box (good for 6 to 8)",4,19,8,NULL,NULL,NULL
+Commonwealth,"party box (good for 6 to 8)",0,15,12,NULL,NULL,NULL
+Makati,panseared,0,0,0,NULL,NULL,NULL
+Malate,"pan seared gyoza",181,766,645,180,198,198
+Makati,"pan seared gyoza",125,1153,653,180,198,198
+Commonwealth,"pan seared gyoza",0,617,423,180,198,198
+Malate,"pan seared",1,2,1,NULL,NULL,NULL
+Malate,"miso soup",625,622,561,55,55,58
+Makati,"miso soup",613,856,863,55,55,58
+Commonwealth,"miso soup",0,545,464,55,55,58
+Malate,"miso ramen with karaage",115,37,2,382,428,428
+Makati,"miso ramen with karaage",93,35,0,382,428,428
+Commonwealth,"miso ramen with karaage",0,22,2,382,428,428
+Malate,"miso ramen",293,256,184,NULL,NULL,NULL
+Makati,"miso ramen",219,244,152,NULL,NULL,NULL
+Commonwealth,"miso ramen",0,295,216,NULL,NULL,NULL
+Makati,"masterdon holiday box2",0,0,1,NULL,NULL,NULL
+Commonwealth,"masterdon holiday box2",0,1,0,NULL,NULL,NULL
+Commonwealth,"masterdon holiday box1",0,0,0,NULL,NULL,NULL
+Makati,"master don holiday box 2 (good for 4 to 5)",0,5,0,NULL,NULL,NULL
+Malate,"master don holiday box 2 (good for 4 to 5)",0,2,0,NULL,NULL,NULL
+Makati,"master don holiday box 1 (good for 4 to 5)",0,1,0,NULL,NULL,NULL
+Malate,"master don holiday box 1 (good for 4 to 5)",0,0,0,NULL,NULL,NULL
+Makati,"korokke platter (good for 4 to 5)",59,111,75,250,258,268
+Malate,"korokke platter (good for 4 to 5)",49,52,44,250,258,268
+Commonwealth,"korokke platter (good for 4 to 5)",0,95,37,250,258,268
+Makati,"korokke platter",0,0,0,NULL,NULL,NULL
+Malate,"korokke platter",0,7,0,NULL,NULL,NULL
+Commonwealth,"korokke platter",0,3,5,NULL,NULL,NULL
+Makati,korokke,370,416,282,170,170,178
+Malate,korokke,336,346,218,170,170,178
+Commonwealth,korokke,0,321,198,170,170,178
+Makati,katsudon,895,947,585,290,290,318
+Malate,katsudon,885,963,642,290,290,318
+Commonwealth,katsudon,0,826,501,290,290,318
+Malate,"karaage platter (good for 4 to 5)",32,50,22,500,518,528
+Makati,"karaage platter (good for 4 to 5)",24,96,38,500,518,528
+Commonwealth,"karaage platter (good for 4 to 5)",0,74,36,500,518,528
+Makati,"japanese tonkatsu curry rice",0,1730,1071,288,288,328
+Malate,"japanese tonkatsu curry rice",0,1575,987,288,288,328
+Commonwealth,"japanese tonkatsu curry rice",0,1347,658,288,288,328
+Makati,"japanese slaw",0,347,280,68,68,78
+Malate,"japanese slaw",0,216,145,68,68,78
+Commonwealth,"japanese slaw",0,187,118,68,68,78
+Makati,"japanese rice with quinoa",264,756,70,55,58,58
+Malate,"japanese rice with quinoa",50,86,410,55,58,58
+Commonwealth,"japanese rice with quinoa",0,346,8,55,58,58
+Makati,"japanese korokke curry rice",0,218,106,NULL,NULL,NULL
+Malate,"japanese korokke curry rice",0,253,136,NULL,NULL,NULL
+Commonwealth,"japanese korokke curry rice",0,174,80,NULL,NULL,NULL
+Makati,"japanese gyudon curry rice",0,796,58,268,268,348
+Malate,"japanese gyudon curry rice",0,1075,429,268,268,348
+Commonwealth,"japanese gyudon curry rice",0,1144,25,268,268,348
+Malate,"japanese gyudon curry",0,0,1,NULL,NULL,NULL
+Commonwealth,"japanese gyudon curry",0,0,0,NULL,NULL,NULL
+Makati,"japanese chicken karaage curry rice",0,945,694,226,249,288
+Malate,"japanese chicken karaage curry rice",0,733,390,226,249,288
+Commonwealth,"japanese chicken karaage curry rice",0,617,281,226,249,288
+Malate,"japanese beef curry rice with scrambled egg",0,0,2,NULL,NULL,NULL
+Commonwealth,"japanese beef curry rice with scrambled egg",0,0,0,NULL,NULL,NULL
+Makati,"gyudon (japanese beef rice bowl)",334,975,668,250,250,288
+Malate,"gyudon (japanese beef rice bowl)",295,997,663,250,250,288
+Commonwealth,"gyudon (japanese beef rice bowl)",0,743,443,250,250,288
+Makati,"gyoza platter (good for 4 to 5)",18,78,39,500,518,528
+Malate,"gyoza platter (good for 4 to 5)",12,60,58,500,518,528
+Commonwealth,"gyoza platter (good for 4 to 5)",0,36,16,500,518,528
+Makati,gyoza,954,0,0,180,198,198
+Malate,gyoza,888,0,0,180,198,198
+Commonwealth,gyoza,0,0,2,180,198,198
+Malate,"fried gyoza",98,485,111,180,198,198
+Makati,"fried gyoza",27,498,137,180,198,198
+Commonwealth,"fried gyoza",0,287,98,180,198,198
+Malate,"curry udon with karaage and drink",28,13,0,358,418,418
+Makati,"curry udon with karaage and drink",11,19,0,358,418,418
+Commonwealth,"curry udon with karaage and drink",0,22,0,358,418,418
+Malate,"curry udon with drink",31,23,0,286,298,298
+Makati,"curry udon with drink",17,27,0,286,298,298
+Commonwealth,"curry udon with drink",0,20,0,286,298,298
+Malate,"curry udon",105,78,12,NULL,NULL,NULL
+Makati,"curry udon",37,117,23,NULL,NULL,NULL
+Commonwealth,"curry udon",0,84,6,NULL,NULL,NULL
+Malate,"chicken katsudon",583,401,310,298,298,308
+Makati,"chicken katsudon",578,666,508,298,298,308
+Commonwealth,"chicken katsudon",0,400,221,298,298,308
+Malate,"chicken katsu",207,184,129,278,278,298
+Makati,"chicken katsu",194,232,209,278,278,298
+Commonwealth,"chicken katsu",0,181,109,278,278,298
+Malate,"chicken karaage rice topping",385,274,248,NULL,NULL,NULL
+Makati,"chicken karaage rice topping",325,482,257,NULL,NULL,NULL
+Commonwealth,"chicken karaage rice topping",0,342,240,NULL,NULL,NULL
+Malate,"chicken curry rice with karaage and drink",137,36,1,369,448,448
+Makati,"chicken curry rice with karaage and drink",86,29,1,369,448,448
+Commonwealth,"chicken curry rice with karaage and drink",0,16,0,369,448,448
+Malate,"chicken curry rice with drink",142,29,0,286,328,328
+Makati,"chicken curry rice with drink",77,44,0,286,328,328
+Commonwealth,"chicken curry rice with drink",0,12,0,286,328,328
+Makati,"chicken chops platter (good for 4 to 5)",0,15,7,550,578,578
+Malate,"chicken chops platter (good for 4 to 5)",0,7,4,550,578,578
+Commonwealth,"chicken chops platter (good for 4 to 5)",0,18,10,550,578,578
+Makati,"cheesy gyudon ramen",0,441,215,NULL,NULL,NULL
+Malate,"cheesy gyudon ramen",0,464,385,NULL,NULL,NULL
+Commonwealth,"cheesy gyudon ramen",0,612,394,NULL,NULL,NULL
+Malate,"chasu don (japanese braised pork belly bowl)",46,94,2,NULL,NULL,NULL
+Makati,"chasu don (japanese braised pork belly bowl)",39,119,4,NULL,NULL,NULL
+Commonwealth,"chasu don (japanese braised pork belly bowl)",0,128,8,NULL,NULL,NULL
+Commonwealth,chasu,0,1,0,NULL,NULL,NULL
+Makati,"bottled - water",128,121,11,NULL,NULL,NULL
+Malate,"bottled - water",107,93,197,NULL,NULL,NULL
+Commonwealth,"bottled - water",0,33,2,NULL,NULL,NULL
+Makati,"beef misono platter (good for 4 to 5)",17,28,21,700,728,790
+Malate,"beef misono platter (good for 4 to 5)",9,12,5,700,728,790
+Commonwealth,"beef misono platter (good for 4 to 5)",0,18,5,700,728,790
+Commonwealth,"beef curry rice with karaage and drin",0,50,0,NULL,NULL,NULL
+Malate,"beef curry rice with drink",103,55,0,322,358,358
+Makati,"beef curry rice with drink",78,59,0,322,358,358
+Commonwealth,"beef curry rice with drink",0,28,1,322,358,358
